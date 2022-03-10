@@ -4,7 +4,7 @@
     margin: 0;
 }
 body {
-    background-image: url("/images/spiderman.png");
+    background-image: url("images/spiderman.png");
     background-size:cover;
     background-position: center center;
     height: 100vh;
